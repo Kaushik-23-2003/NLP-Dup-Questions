@@ -54,4 +54,4 @@ The following table highlights the performance of various machine learning model
 - Confusion matrices for each model's predictions.
 - Violin plots showing word overlap distributions. 
 
-Explore the complete performance metrics and visualizations in the `results` folder.  
+Explore the complete performance metrics and visualizations in the `Results` folder.  
